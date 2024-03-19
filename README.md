@@ -7,3 +7,15 @@
 4. run ```npm start``` in server folder
 5. run ```npm start``` in client folder
 6. If it does not automatically open the brower, then manually go to ```http://localhost:3000/```.
+
+## Home page
+This page will provide you with a random song and also list songs that are ranked by play times
+![alt text](./img/Home.png)
+
+## Album page
+This page display the album of Taylor Swift
+![alt text](./img/Album.png)
+
+## Search page
+This page allows the users to search the song based on title, number of plays, danceability, energy, and valence
+![alt text](./img/Search.png)
