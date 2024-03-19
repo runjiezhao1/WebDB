@@ -1,3 +1,9 @@
-Describe how, if at all, you used generative AI to assist with completing this homework.  Recall that you cannot use generative AI to write your SQL queries, but can use it to explain concepts or assist with coding. Please see the statement on generative AI at the top of the homework writeup.
+# Mini-Spotify Project:
 
-Answer here: Never Used
+## Instruction
+1. git clone the repo
+2. set up your config.json file in both client folder and server folder
+3. run ```npm install``` in both client and server folder
+4. run ```npm start``` in server folder
+5. run ```npm start``` in client folder
+6. If it does not automatically open the brower, then manually go to ```http://localhost:3000/```.
