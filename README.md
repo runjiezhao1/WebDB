@@ -19,3 +19,11 @@ This page display the album of Taylor Swift
 ## Search page
 This page allows the users to search the song based on title, number of plays, danceability, energy, and valence
 ![alt text](./img/Search.png)
+
+## Bar chart
+This page displays the bar chart of the specific song. The rows include ```Danceability```, ```Energy``` and ```Valence```
+![alt text](./img/bar.png)
+
+## Radar chart
+This page displays the radar chart of the specific song. The rows include ```Danceability```, ```Energy``` and ```Valence```
+![alt text](./img/radar.png)
